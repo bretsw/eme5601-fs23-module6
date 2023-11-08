@@ -272,7 +272,7 @@ Figure 8.4 from Rothwell et al. (2016, p. 136)
 
 --
 
-- Name **conditions**: what must eist when the learner demonstrates their knowledge, skill, or ability
+- Name **conditions**: what must exist when the learner demonstrates their knowledge, skill, or ability
 
 --
 
